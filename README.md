@@ -16,7 +16,7 @@ I focus on automation, data pipelines, and exploring AI/ML systems.
 ### 📍 Quick Facts
 
 * 🌍 Based in the UK
-* 📧 Contact: [dataquantumsylhet@gmail.com](mailto:dataquantumsylhet@gmail.com)
+* 📧 Contact: [mmu500@bham.ac.uk](mailto:mmu500@bham.ac.uk)
 * 🧠 Currently learning: **PyTorch & AI Systems**
 * 🤝 Open to collaborating on projects
 

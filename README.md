@@ -1,16 +1,64 @@
-## Hi there 👋
+## 👋 Hi, I'm Munir Uddin
 
-<!--
-**QuantumBoseBD1971/QuantumBoseBD1971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Engineer | AI & Automation (AWS & Azure)
 
-Here are some ideas to get you started:
+> 🧠 *Inspired by 1952. Built on 1971.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I’m a Data Engineer with experience building scalable data solutions across **Microsoft Azure** and **Amazon Web Services**.
+I focus on automation, data pipelines, and exploring AI/ML systems.
+
+---
+
+### 📍 Quick Facts
+
+* 🌍 Based in the UK
+* 📧 Contact: [dataquantumsylhet@gmail.com](mailto:dataquantumsylhet@gmail.com)
+* 🧠 Currently learning: **PyTorch & AI Systems**
+* 🤝 Open to collaborating on projects
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,azure,aws,postgres,mysql,pytorch" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/QuantumBoseBD">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuantumBoseBD&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Focus Areas
+
+* Data Engineering Pipelines (ETL/ELT)
+* Cloud Data Platforms (Azure & AWS)
+* Automation & Python Engineering
+* Applied AI / Machine Learning Systems
+
+---
+
+### 🔥 Current Goal
+
+Building systems that combine **data engineering + AI + automation** to solve real-world problems.
+
+---
